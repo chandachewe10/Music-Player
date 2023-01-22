@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayer.resources
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\user\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
